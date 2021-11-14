@@ -13,7 +13,11 @@
     "watch": "webpack --watch",
     "build": "webpack --mode production"
   },
-  "author": "",
+  "author": {"name": "Amit Verma"},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akv004/artlib.git"
+  },
   "peerDependenciesForLibBuild": [
     "react",
     "react-dom",
