@@ -1,3 +1,3 @@
 # artlib
 
-React resusable component lib
+React component lib
